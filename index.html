@@ -1148,6 +1148,72 @@ document.body.appendChild(table);
 
 const combResults = [results.join(', '), results2.join(', ')].join('\n');
 console.log(combResults);
+	
+	
+
+function calculateEuclideanDifference(player1, player2) {
+  let difference = 0;
+  for (let i = 2; i < player1.length; i++) {
+    difference += Math.abs(player1[i] - player2[i]);
+  }
+  return difference;
+}
+
+const calculateSimilarPlayers = (results, dataArray) => {
+  const filteredDataArray = dataArray.filter(player => player !== results);
+  let similarPlayers = [];
+
+  for (let i = 0; i < filteredDataArray.length; i++) {
+    const player = filteredDataArray[i];
+    const difference = calculateEuclideanDifference(results, player);
+
+    similarPlayers.push({ player, difference });
+  }
+
+  similarPlayers.sort((a, b) => a.difference - b.difference);
+  return similarPlayers.slice(0, 5).map(item => item.player);
+};
+
+const similarPlayers = calculateSimilarPlayers(results, dataArray);
+const similarPlayers2 = calculateSimilarPlayers(results2, dataArray);
+
+
+const table2 = document.createElement('table');
+
+const headerRow2 = document.createElement('tr');
+const header12 = document.createElement('th');
+header12.textContent = '';
+headerRow2.appendChild(header12);
+const name12 = document.createElement('td');
+name12.textContent = "Similar data to " + results[1];
+headerRow2.appendChild(name12);
+const name22 = document.createElement('td');
+name22.textContent = "Similar data to " + results2[1];
+headerRow2.appendChild(name22);
+table2.appendChild(headerRow2);
+
+for (let i = 0; i < similarPlayers.length; i++) {
+  const playerData = similarPlayers[i];
+  const playerData2 = similarPlayers2[i];
+  const row2 = document.createElement('tr');
+  const metricHeader2 = document.createElement('th');
+  row2.appendChild(metricHeader2);
+  const cell12 = document.createElement('td');
+  cell12.textContent = playerData[1];
+  row2.appendChild(cell12);
+  const cell22 = document.createElement('td');
+  cell22.textContent = playerData2[1];
+  row2.appendChild(cell22);
+  table2.appendChild(row2);
+}
+
+
+table2.style.marginTop = '500px';
+
+document.body.appendChild(table2);
+
+	
+	
 </script>
 
 
