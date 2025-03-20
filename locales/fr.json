@@ -1,0 +1,42 @@
+{
+    "header": {
+      "home": "Accueil",
+      "pro": "Pro",
+      "guide": "Guide"
+    },
+    "search": {
+      "placeholder": "Entrez le nom d'une équipe ou d'un joueur...",
+      "placeholder2": "Cherchez un ailier..."
+    },
+    "table": {
+      "percentiles": "Centiles",
+      "age": "Âge",
+      "progCarries": "Portées prog.",
+      "dribbles": "Dribbles",
+      "npg": "Buts non-penalty",
+      "xgxa": "xG + xA",
+      "assists": "Passes décisives",
+      "keyPasses": "Passes clés",
+      "attActions": "Actions att.",
+      "minutes": "Minutes jouées"
+    },
+    "radar": {
+      "keyPasses": "Passes clés",
+      "assists": "Passes décisives",
+      "xgxa": "xG+xA",
+      "npg": "Buts NP",
+      "dribbles": "Dribbles",
+      "carries": "Portées",
+      "attActions": "Actions att"
+    },
+    "buttons": {
+      "team": "Équipe"
+    },
+    "similar": {
+      "to": "Données similaires à"
+    },
+    "meta": {
+      "title": "DataMB | Comparer les ailiers",
+      "description": "Comparez les statistiques des ailiers et attaquants dans les 7 meilleures ligues. Visualisez la performance des joueurs. Trouvez des profils similaires. Utilisez notre outil radar pour comparer les buts; xG; tirs; dribbles; passes clés; xA; courses progressives et plus pour les ailiers et attaquants en Premier League, La Liga, Bundesliga, Serie A, Ligue 1, Eredivisie, Primeira Liga."
+    }
+  } 
