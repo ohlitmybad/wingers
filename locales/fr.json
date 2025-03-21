@@ -22,9 +22,9 @@
     },
     "radar": {
       "keyPasses": "Passes clés",
-      "assists": "PD",
+      "assists": "Passes D",
       "xgxa": "xG+xA",
-      "npg": "Buts (sp)",
+      "npg": "Buts",
       "dribbles": "Dribbles",
       "carries": "Courses",
       "attActions": "Actions off"
