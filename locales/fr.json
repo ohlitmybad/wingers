@@ -11,23 +11,23 @@
     "table": {
       "percentiles": "Centiles",
       "age": "Âge",
-      "progCarries": "Portées prog.",
+      "progCarries": "Courses prog.",
       "dribbles": "Dribbles",
-      "npg": "Buts non-penalty",
+      "npg": "Buts sans penalty",
       "xgxa": "xG + xA",
       "assists": "Passes décisives",
       "keyPasses": "Passes clés",
-      "attActions": "Actions att.",
+      "attActions": "Actions off.",
       "minutes": "Minutes jouées"
     },
     "radar": {
       "keyPasses": "Passes clés",
-      "assists": "Passes décisives",
+      "assists": "PD",
       "xgxa": "xG+xA",
-      "npg": "Buts NP",
+      "npg": "Buts (sp)",
       "dribbles": "Dribbles",
-      "carries": "Portées",
-      "attActions": "Actions att"
+      "carries": "Courses",
+      "attActions": "Actions off"
     },
     "buttons": {
       "team": "Équipe"
