@@ -38,5 +38,13 @@
     "meta": {
       "title": "DataMB | Comparer les ailiers",
       "description": "Comparez les statistiques des ailiers et attaquants dans les 7 meilleures ligues. Visualisez la performance des joueurs. Trouvez des profils similaires. Utilisez notre outil radar pour comparer les buts; xG; tirs; dribbles; passes clés; xA; courses progressives et plus pour les ailiers et attaquants en Premier League, La Liga, Bundesliga, Serie A, Ligue 1, Eredivisie, Primeira Liga."
+    },
+    "positions": {
+      "goalkeeper": "Gardien",
+      "centreback": "Défenseur",
+      "fullback": "Latéral",
+      "midfielder": "Milieu",
+      "winger": "Ailier",
+      "striker": "Buteur"
     }
   } 
