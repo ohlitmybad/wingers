@@ -38,5 +38,13 @@
   "meta": {
     "title": "DataMB | Compare Wingers",
     "description": "Compare winger and forward statistics in the Top 7 Leagues. Visualize player performance. Find similar profiles. Use our radar tool to compare goals; xG; shots; dribbles; key passes; xA; progressive runs and more for wingers and forwards in Premier League, La Liga, Bundesliga, Serie A, Ligue 1, Eredivisie, Primeira Liga."
+  },
+  "positions": {
+    "goalkeeper": "Goalkeeper",
+    "centreback": "Centre-back",
+    "fullback": "Full-back",
+    "midfielder": "Midfielder",
+    "winger": "Winger",
+    "striker": "Striker"
   }
 } 
