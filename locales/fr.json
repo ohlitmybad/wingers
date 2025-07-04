@@ -12,22 +12,22 @@
       "percentiles": "Centiles",
       "age": "Âge",
       "progCarries": "Courses prog",
-      "dribbles": "Dribbles",
-      "npg": "Buts hors pen",
-      "xgxa": "xG + xA",
+      "dribbles": "Dribbles réussis",
+      "npg": "Buts HP",
+      "xgxa": "npxG +xA",
       "assists": "Passes décisives",
       "keyPasses": "Passes clés",
-      "attActions": "Actions off",
-      "minutes": "Minutes jouées"
+      "cross": "Centres réussis",
+      "minutes": "Minutes"
     },
     "radar": {
-      "keyPasses": "Passes Clés",
+      "keyPasses": "Passes clés",
       "assists": "Passes D",
-      "xgxa": "xG+xA",
-      "npg": "Buts",
+      "xgxa": "npxG+xA",
+      "npg": "Buts HP",
       "dribbles": "Dribbles",
       "carries": "Courses",
-      "attActions": "Actions Off"
+      "cross": "Centres"
     },
     "buttons": {
       "team": "Équipe"
@@ -37,7 +37,7 @@
     },
     "meta": {
       "title": "DataMB | Comparer les ailiers",
-      "description": "Comparez les statistiques des ailiers et attaquants dans les 7 meilleures ligues. Visualisez la performance des joueurs. Trouvez des profils similaires. Utilisez notre outil radar pour comparer les buts; xG; tirs; dribbles; passes clés; xA; courses progressives et plus pour les ailiers et attaquants en Premier League, La Liga, Bundesliga, Serie A, Ligue 1, Eredivisie, Primeira Liga."
+      "description": "Comparez les statistiques des ailiers et attaquants dans les 7 meilleures ligues. Visualisez la performance des joueurs. Trouvez des profils similaires. Utilisez notre outil radar pour comparer les buts; xG et xA; dribbles; passes clés; xA; courses progressives; centres et plus pour les ailiers et attaquants en Premier League, La Liga, Bundesliga, Serie A, Ligue 1, Eredivisie, Primeira Liga."
     },
     "positions": {
       "goalkeeper": "Gardien",
@@ -46,5 +46,11 @@
       "midfielder": "Milieu",
       "winger": "Ailier",
       "striker": "Buteur"
+    },
+    "footer": {
+      "rights": "© Tous droits réservés",
+      "privacy": "Confidentialité",
+      "contact": "Contact",
+      "about": "À propos"
     }
-  } 
+  }
