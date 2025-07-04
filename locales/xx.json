@@ -11,23 +11,23 @@
   "table": {
     "percentiles": "Percentiles",
     "age": "Age",
-    "progCarries": "Prog. carries",
-    "dribbles": "Dribbles",
-    "npg": "Non-penalty goals",
-    "xgxa": "xG + xA",
+    "progCarries": "Prog carries",
+    "dribbles": "Dribbles cmp",
+    "npg": "NPG",
+    "xgxa": "npxG +xA",
     "assists": "Assists",
     "keyPasses": "Key passes",
-    "attActions": "Att. actions",
-    "minutes": "Minutes played"
+    "cross": "Crosses cmp",
+    "minutes": "Minutes"
   },
   "radar": {
-    "keyPasses": "Key Passes",
+    "keyPasses": "Key passes",
     "assists": "Assists",
-    "xgxa": "xG+xA",
+    "xgxa": "npxG+xA",
     "npg": "NPG",
     "dribbles": "Dribbles",
-    "carries": "Carries",
-    "attActions": "Att Actions"
+    "carries": "Carrying",
+    "cross": "Crosses"
   },
   "buttons": {
     "team": "Team"
@@ -37,7 +37,7 @@
   },
   "meta": {
     "title": "DataMB | Compare Wingers",
-    "description": "Compare winger and forward statistics in the Top 7 Leagues. Visualize player performance. Find similar profiles. Use our radar tool to compare goals; xG; shots; dribbles; key passes; xA; progressive runs and more for wingers and forwards in Premier League, La Liga, Bundesliga, Serie A, Ligue 1, Eredivisie, Primeira Liga."
+    "description": "CCompare winger and attacking midfielder statistics in the Top 7 Leagues. Visualize player performance. Find similar profiles. Use our radar tool to compare non-penalty goals; assists; xG and xA (npxG+xA); dribbles completed (successful); progressive runs (carries); key passes; crosses completed (accurate) and more for wingers in Premier League, La Liga, Bundesliga, Serie A, Ligue 1, Eredivisie, Primeira Liga."
   },
   "positions": {
     "goalkeeper": "Goalkeeper",
@@ -46,5 +46,11 @@
     "midfielder": "Midfielder",
     "winger": "Winger",
     "striker": "Striker"
+  },
+  "footer": {
+    "rights": "© All Rights Reserved",
+    "privacy": "Privacy",
+    "contact": "Contact",
+    "about": "About"
   }
-} 
+}
