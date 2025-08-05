@@ -1,0 +1,56 @@
+{
+  "header": {
+    "home": "Ana Sayfa",
+    "pro": "Pro",
+    "guide": "Rehber"
+  },
+  "search": {
+    "placeholder": "Takım veya oyuncu adı girin...",
+    "placeholder2": "Kanat oyuncusu adı girin..."
+  },
+  "table": {
+    "percentiles": "Yüzdelikler",
+    "age": "Yaş",
+    "progCarries": "Topu ileri taşıma",
+    "dribbles": "Dribling tamamla",
+    "npg": "NPG",
+    "xgxa": "npxG +xA",
+    "assists": "Asistler",
+    "keyPasses": "Anahtar paslar",
+    "cross": "Ortalar",
+    "minutes": "Dakika"
+  },
+  "radar": {
+    "keyPasses": "Anahtar paslar",
+    "assists": "Asistler",
+    "xgxa": "npxG+xA",
+    "npg": "NPG",
+    "dribbles": "Driblingler",
+    "carries": "Topu ileri taşıma",
+    "cross": "Ortalar"
+  },
+  "buttons": {
+    "team": "Takım"
+  },
+  "similar": {
+    "to": "Benzer veri"
+  },
+  "meta": {
+    "title": "DataMB | Kanat Oyuncularını Karşılaştır",
+    "description": "En İyi 7 Ligdeki kanat oyuncuları ve hücum orta saha oyuncularının istatistiklerini karşılaştırın. Oyuncu performansını görselleştirin. Benzer profiller bulun. Premier Lig, La Liga, Bundesliga, Serie A, Ligue 1, Eredivisie, Primeira Liga'daki kanat oyuncuları için penaltı olmayan goller; asistler; xG ve xA (npxG+xA); tamamlanan driblingler (başarılı); topu ileri taşıma sayıları; anahtar paslar; tamamlanan ortalar (isabetli) ve daha fazlasını karşılaştırmak için radar aracımızı kullanın."
+  },
+  "positions": {
+    "goalkeeper": "Kaleci",
+    "centreback": "Stoper",
+    "fullback": "Bek",
+    "midfielder": "Orta saha",
+    "winger": "Kanat",
+    "striker": "Forvet"
+  },
+  "footer": {
+    "rights": "© Tüm Hakları Saklıdır",
+    "privacy": "Gizlilik",
+    "contact": "İletişim",
+    "about": "Hakkında"
+  }
+} 
