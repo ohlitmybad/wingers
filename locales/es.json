@@ -1,0 +1,56 @@
+{
+  "header": {
+    "home": "Inicio",
+    "pro": "Pro",
+    "guide": "Guía"
+  },
+  "search": {
+    "placeholder": "Introduce un nombre de equipo o jugador...",
+    "placeholder2": "Introduce nombre de extremo..."
+  },
+  "table": {
+    "percentiles": "Percentiles",
+    "age": "Edad",
+    "progCarries": "Carreras prog",
+    "dribbles": "Regates cmp",
+    "npg": "NPG",
+    "xgxa": "npxG +xA",
+    "assists": "Asistencias",
+    "keyPasses": "Pases clave",
+    "cross": "Centros cmp",
+    "minutes": "Minutos"
+  },
+  "radar": {
+    "keyPasses": "Pases clave",
+    "assists": "Asistencias",
+    "xgxa": "npxG+xA",
+    "npg": "NPG",
+    "dribbles": "Regates",
+    "carries": "Conducción",
+    "cross": "Centros"
+  },
+  "buttons": {
+    "team": "Equipo"
+  },
+  "similar": {
+    "to": "Datos similares a"
+  },
+  "meta": {
+    "title": "DataMB | Comparar Extremos",
+    "description": "Compara estadísticas de extremos y centrocampistas ofensivos en las 7 Principales Ligas. Visualiza el rendimiento de jugadores. Encuentra perfiles similares. Usa nuestra herramienta de radar para comparar goles (sin penaltis); asistencias; xG y xA (npxG+xA); regates completados (exitosos); carreras progresivas (conducción); pases clave; centros completados (precisos) y más para extremos en Premier League, La Liga, Bundesliga, Serie A, Ligue 1, Eredivisie, Primeira Liga."
+  },
+  "positions": {
+    "goalkeeper": "Portero",
+    "centreback": "Central",
+    "fullback": "Lateral",
+    "midfielder": "Centrocampista",
+    "winger": "Extremo",
+    "striker": "Delantero"
+  },
+  "footer": {
+    "rights": "© Todos los derechos reservados",
+    "privacy": "Privacidad",
+    "contact": "Contacto",
+    "about": "Acerca de"
+  }
+} 
